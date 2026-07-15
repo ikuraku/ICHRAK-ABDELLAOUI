@@ -54,12 +54,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ton-utilisateur&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ton-utilisateur&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ichrak Abdellaoui &show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ichrak Abdellaoui&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ton-utilisateur&theme=radical&hide_border=true&stroke=0000&background=0D1117&fire=00D4FF&sideLabels=00D4FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=radical&hide_border=true&stroke=0000&background=0D1117&fire=00D4FF&sideLabels=00D4FF" />
 </div>
 
 ---
