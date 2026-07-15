@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Ichrak+Abdellaoui;Cloud+%26+DevOps+Engineer;Cybersecurity+Enthusiast;Infrastructure+as+Code+Advocate" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ton-utilisateur&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ton-utilisateur?label=Followers&style=social" alt="GitHub Followers" />
-</div>
 
 ---
 
@@ -51,36 +47,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ichrak Abdellaoui &show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ichrak Abdellaoui&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=radical&hide_border=true&stroke=0000&background=0D1117&fire=00D4FF&sideLabels=00D4FF" />
-</div>
-
----
-
-## 🏆 Certifications
-
-| Certification | Émetteur | Date |
-|:---|:---|:---:|
-| Azure Fundamentals | Microsoft | Nov. 2023 |
-| Azure Data Fundamentals | Microsoft | Nov. 2023 |
-| Security, Compliance & Identity Fundamentals | Microsoft | Nov. 2023 |
-
----
-
-## 📫 Me contacter
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ton-utilisateur)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton-email@gmail.com)
-
----
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Merci+de+visiter+mon+profil+%F0%9F%91%8B;N'h%C3%A9sitez+pas+%C3%A0+me+contacter+!" alt="Footer Typing" />
