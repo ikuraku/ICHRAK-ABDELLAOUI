@@ -14,7 +14,7 @@
 
 Étudiante ingénieure en Génie Logiciel, spécialisée en **Cloud Computing** et **DevOps**, passionnée par la conception d'infrastructures Cloud, l'automatisation des déploiements et la sécurisation des systèmes d'information. Titulaire d'une Licence en Réseaux et Systèmes Informatiques, je dispose d'une solide base en réseaux, systèmes et infrastructures IT.
 
-🎯 **Objectif** : Trouver un stage pour contribuer à des projets innovants en renforçant mon expertise technique.
+
 
 ---
 
